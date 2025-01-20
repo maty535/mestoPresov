@@ -1,2 +1,3 @@
 # mestoPresov
-informacie a data pre zlepsenie efektivity a spravy veci verejnych v meste presov
+
+Informácie a dáta pre zlepšenie efektivity a správy veci verejných v meste Prešov
