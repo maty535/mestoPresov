@@ -1,5 +1,10 @@
 title: Štíhle mesto Prešov
 
+description: >
+ "Prešov ako Lean city. Koncept pre zodpovedne spravované mesto"
+url: "https://presov.imcontec.eu"
+lang: sk_SK
+
 show_excerpts: true
 
 plugins:
