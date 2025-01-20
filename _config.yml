@@ -89,12 +89,15 @@ exclude:
   - screenshot.png
   - docs/
 
+# Ruby Date Format to show dates of posts
+date_format: "%B %-d, %Y"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-remote-theme
 
 remote_theme: daattali/beautiful-jekyll@6.0.1
