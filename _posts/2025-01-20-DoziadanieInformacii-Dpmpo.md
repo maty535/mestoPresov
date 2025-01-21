@@ -10,7 +10,7 @@ author: Ing. Matúš Ivanecký
 
 ## Prezentácia dopravného podniku počas kontrolného dňa
 
-- [DODATOK č. 13 k Rámcovej zmluve o službách vo verejnom záujme a zabezpečení mestskej hromadnej dopravy osôb v meste Prešov na roky 2017 - 2026]( {% link /assets/2024-09-27-Dodatok13-MHD-PO.pdf | relative_url %})
+- [DODATOK č. 13 k Rámcovej zmluve o službách vo verejnom záujme a zabezpečení mestskej hromadnej dopravy osôb v meste Prešov na roky 2017 - 2026]( {% /assets/2024-09-27-Dodatok13-MHD-PO.pdf | relative_url %})
 
 
 
