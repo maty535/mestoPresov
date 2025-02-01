@@ -37,6 +37,22 @@ T.z ziadam Vas o informacie v tomto formate:
 tarifa; pocet; obec; rok
 
 
+Matus Ivanecky <matus.ivanecky@gmail.com>
+11:23 (pred 0 minútami)
+komu: dpmp
+
+Dobry den, 
+
+chcem Vas este poprosit o dodanie doplnujucej informacie, ak to stihnete prosim Vas prilozte mi to k povodnej poziadavke. 
+
+T.z. tymto Vas ziadam o poskytnutie informacie na zaklade zákona č. 211/2000 Z. z. o slobodnom prístupe k informaciam, tykajucej sa poctu ziakov a studentov do 26 rokov vyuzivajucich tarifu  : 3 - mesačný - znížený  podla jednotlivych obci:
+
+t.z.vo formate:
+
+tarifa_3_mescany_zlavneny; pocet; obec; rok;  rok-mesiac_od (zaciatok platnosti mesiac);
+
+
+
 
 ## Podklady pre zvyšovanie cestovného v DPMO pre rok 2025
 
