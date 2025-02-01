@@ -36,6 +36,8 @@ T.z ziadam Vas o informacie v tomto formate:
 
 tarifa; pocet; obec; rok
 
+----
+
 
 Matus Ivanecky <matus.ivanecky@gmail.com> 1.2.2025 o 11:23 :
 komu: dpmp
