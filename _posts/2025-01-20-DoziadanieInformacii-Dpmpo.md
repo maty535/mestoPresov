@@ -18,7 +18,24 @@ author: Ing. Matúš Ivanecký
 
 ## Zistenie poctu studentov vyuzivajucich bezplatnu dopravu v DPMO
 
-dasdsadhdajks  dsada
+
+Matus Ivanecky <matus.ivanecky@gmail.com>
+pi 24. 1. 11:11 (pred 8 dňami)
+komu: dpmp
+
+Dobry den, 
+
+tymto Vas ziadam o poskytnutie informacie na zaklade zákona č. 211/2000 Z. z. o slobodnom prístupe k informaciam, tykajucej sa poctu ziakov a studentov do 18 rokov vyuzivajucich tarifu  :
+
+1. PCL – ROČNÝ EVIDENČNÝ 18  
+2.  PCL – 3-MESAČNÝ EVIDENČNÝ 18
+
+s informaciou o pocte ziakov a studentov vyuzivajuce jednotlive tarify s informaciou o obci trvaleho pobytu za rok 2024.
+
+T.z ziadam Vas o informacie v tomto formate:
+
+tarifa; pocet; obec; rok
+
 
 
 ## Podklady pre zvyšovanie cestovného v DPMO pre rok 2025
