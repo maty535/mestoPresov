@@ -52,7 +52,8 @@ t.z.vo formate:
 
 tarifa_3_mescany_zlavneny; pocet; obec; rok;  rok-mesiac_od (zaciatok platnosti mesiac);
 
-
+- Z dmpo dňa 6.2.2025 prišla nasledujúca odpoveď:
+   [Odpoveď od DPMPO]({{/assets/2025-02-06-DPMPO-odpoved.pdf | relative_url }}) 
 
 
 ## Podklady pre zvyšovanie cestovného v DPMO pre rok 2025
